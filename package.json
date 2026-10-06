@@ -1,0 +1,14 @@
+{
+  "name": "site-produto-api",
+  "version": "1.0.0",
+  "description": "Backend do site de produto com integração Orbit",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@fastify/cors": "^10.0.2",
+    "dotenv": "^16.4.7",
+    "fastify": "^5.2.1"
+  }
+}
